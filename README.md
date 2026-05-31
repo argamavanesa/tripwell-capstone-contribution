@@ -37,3 +37,8 @@ Data Analysis & Data Preprocessing
 
 ## Project Repository:
 [(link repository utama)](https://github.com/lailykhoiriyah/capstoneproject/tree/main)
+
+## Tools
+* Python (Google Colab & VS Code)
+* Streamlit
+
