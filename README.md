@@ -1,7 +1,5 @@
 # Tripwell Capstone Contribution
 
-## Project Type:
-Team Capstone Project
 
 ## Project Description:
 TripWell is an AI-powered inclusive tourism platform designed to help users identify whether a tourist destination is accessible for people with mobility limitations, such as wheelchair users, elderly visitors, and families with strollers.
@@ -22,12 +20,17 @@ This project was developed for:
 Data Analysis & Data Preprocessing
 
 ## Contributions:
+![EDA Overview](images/data-wrangling-preview.png)
 - Data Wrangling 
 - Cleaning Data (Missing value handling, Data type handling)
 - Data preprocessing (For modelling)
+
+![EDA Overview](images/eda-preview.png)
 - Exploratory Data Analysis (EDA)
 - Data visualization
-- Data quality assessment
 
-Project Repository:
+## Insights:
+
+
+## Project Repository:
 [(link repository utama)](https://github.com/lailykhoiriyah/capstoneproject/tree/main)
